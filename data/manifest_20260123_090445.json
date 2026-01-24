@@ -1,0 +1,9 @@
+{
+  "run_ts": "20260123_090445",
+  "line_rows": 1500,
+  "order_rows": 1500,
+  "line_path_parquet": null,
+  "order_path_parquet": null,
+  "line_path_csv": "c:\\Users\\AYUSHITIWARI\\FUTURE_DS_01\\data\\processed_sales_line_20260123_090445.csv",
+  "order_path_csv": "c:\\Users\\AYUSHITIWARI\\FUTURE_DS_01\\data\\processed_sales_order_20260123_090445.csv"
+}
